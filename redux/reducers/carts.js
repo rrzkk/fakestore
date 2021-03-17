@@ -1,5 +1,5 @@
   
-import * as ActionTypes from './actiontype';
+import * as ActionTypes from '../actiontype';
 
 export const carts = (state = {
     title: null,
